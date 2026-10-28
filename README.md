@@ -22,6 +22,7 @@ The three datasets correspond to successive levels of the review. They should th
 │   ├── repository_II.csv
 │   ├── repository_III.csv
 │   └── repositories.xlsx
+├── CITATION.cff
 ├── LICENSE.md
 └── README.md
 ```
@@ -57,7 +58,6 @@ The datasets were created through a progressive literature-selection and qualita
 - the consideration of specialist and non-specialist users;
 - the ways in which geomorphological information supports education, participation, public administration, and risk awareness.
 
-The datasets should be interpreted in relation to the search strategy, eligibility criteria, and methodological limitations reported in the associated article. Additional information is provided in [`documentation/methodological_notes.md`](documentation/methodological_notes.md).
 
 ## Data provenance and redistribution
 
@@ -81,7 +81,7 @@ When using these data, please cite both the dataset and the associated article.
 
 ### Dataset
 
-> Franceschi, L., Bosino, A., La Licata, M., & De Amicis, M. (2026). *Supporting data for “Geomorphological Mapping and Social Sciences: A Qualitative Review”* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Franceschi, L., Bosino, A., La Licata, M., & De Amicis, M. (2026). *Supporting data for “Geomorphological Mapping and Social Sciences: A Qualitative Review”* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23728714
 
 The definitive Zenodo DOI will replace the placeholder after the publication of release `v1.0.0`.
 
